@@ -1,9 +1,378 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+  "GSDEntitlementResult": {
+    "CurrentEntitlementID": 0,
+    "sOOSType": "HW",
+    "GSDProductListBySerialNumber": [],
+    "MergedOfferIdsLists": {
+      "MergedOfferId": []
+    },
+    "MergedList": null,
+    "AutoSelectedOfferID": "",
+    "GSDCreateAssetBySN": true,
+    "ProductDescription": "HP DL360G7 E5649 SP8204TV Svr EURO",
+    "ProductName": "HP DL360G7 E5649 SP8204TV Svr EURO",
+    "ProductNumber": "470065-506",
+    "MVProductNumber": "",
+    "MVManufacturerName": "",
+    "MVManufacturerID": "",
+    "IsMultiVendorProduct": false,
+    "ProductMasterPL": "SY",
+    "GSDOffers": [
+      {
+        "index": 1,
+        "Deliverables": [
+          {
+            "Modifiers": [
+              {
+                "Name": "WTY_HWMON_MATERIAL_HANDLING",
+                "Value": "STD",
+                "Description": "Standard Material Handling",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_GEOGRAPHIC_COVERAGE",
+                "Value": "GLB",
+                "Description": "Global Coverage",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_REMOTE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Remote",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_ONSITE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Onsite",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "COV_WINDOW5",
+                "Value": "STD",
+                "Description": "Std Office Hrs Std Office Days",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "RESPONSE_TIME",
+                "Value": "NCD",
+                "Description": "Next Cov Day Onsite Response",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_PARTS_LOGISTICS",
+                "Value": "STD",
+                "Description": "Standard Parts Logistics",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_USAGE_LIMITATIONS",
+                "Value": "NL",
+                "Description": "No Usage Limitation",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              }
+            ],
+            "Code": "WTY_HWMON_ONSITE_SUPPORT",
+            "Name": "Onsite Support",
+            "Value": "Y",
+            "QuantitySold": "0",
+            "QuantityAvailable": "0",
+            "isSelected": false
+          },
+          {
+            "Modifiers": [
+              {
+                "Name": "WTY_HWMON_MATERIAL_HANDLING",
+                "Value": "STD",
+                "Description": "Standard Material Handling",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_GEOGRAPHIC_COVERAGE",
+                "Value": "GLB",
+                "Description": "Global Coverage",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_REMOTE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Remote",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_ONSITE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Onsite",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "COV_WINDOW5",
+                "Value": "STD",
+                "Description": "Std Office Hrs Std Office Days",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "RESPONSE_TIME",
+                "Value": "NCD",
+                "Description": "Next Cov Day Onsite Response",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_PARTS_LOGISTICS",
+                "Value": "STD",
+                "Description": "Standard Parts Logistics",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_USAGE_LIMITATIONS",
+                "Value": "NL",
+                "Description": "No Usage Limitation",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              }
+            ],
+            "Code": "WTY_HWMON_MATERIAL",
+            "Name": "Parts and Material provided",
+            "Value": "Y",
+            "QuantitySold": "0",
+            "QuantityAvailable": "0",
+            "isSelected": false
+          },
+          {
+            "Modifiers": [
+              {
+                "Name": "WTY_HWMON_MATERIAL_HANDLING",
+                "Value": "STD",
+                "Description": "Standard Material Handling",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_GEOGRAPHIC_COVERAGE",
+                "Value": "GLB",
+                "Description": "Global Coverage",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_REMOTE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Remote",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_DEL_RESP_METH_ONSITE",
+                "Value": "NA",
+                "Description": "NextAvail TechResource Onsite",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "COV_WINDOW5",
+                "Value": "STD",
+                "Description": "Std Office Hrs Std Office Days",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "RESPONSE_TIME",
+                "Value": "NCD",
+                "Description": "Next Cov Day Onsite Response",
+                "Value2": null,
+                "bIsStdValue": false,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_PARTS_LOGISTICS",
+                "Value": "STD",
+                "Description": "Standard Parts Logistics",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              },
+              {
+                "Name": "WTY_HWMON_USAGE_LIMITATIONS",
+                "Value": "NL",
+                "Description": "No Usage Limitation",
+                "Value2": null,
+                "bIsStdValue": true,
+                "bUsedInGSDServiceDelivery": false
+              }
+            ],
+            "Code": "WTY_HWMON_PROBLEM_DIAGNOSIS",
+            "Name": "Hardware Problem Diagnosis",
+            "Value": "Y",
+            "QuantitySold": "0",
+            "QuantityAvailable": "0",
+            "isSelected": false
+          }
+        ],
+        "ID": "ID_619504_3",
+        "GSDOfferType": "warranty",
+        "Code": "HA151AW",
+        "Name": "Wty: HP HW Maintenance Onsite Support",
+        "WarrantyType": "FR",
+        "TermCode": "A015",
+        "WarrantyComment": null,
+        "WarrantyDeterminationCode": "03",
+        "WarrantyDeterminationDescription": "Serial Number decode",
+        "SalesOrderNumber": null,
+        "GracePeriod": null,
+        "Upgradable": null,
+        "Global": "true",
+        "InstallationIncluded": "false",
+        "SitePreparation": "false",
+        "PortfolioFlag": "G",
+        "Status": "X",
+        "StartDate": "2011-02-19",
+        "EndDate": "2014-03-20",
+        "IsSelectedOffer": false,
+        "IsTopOffer": false,
+        "MergeOfferIDIndexList": null,
+        "SerialNumber": "USE10771L4",
+        "PackageName": null,
+        "SvcProductType": null,
+        "QuantitySold": null,
+        "QuantityAvailable": null,
+        "ContractID": null,
+        "ContractType": null,
+        "ProductShipToCustomerID": null,
+        "SoldToCustomerID": null,
+        "HWShipToPersonID": null,
+        "PSPCustomerID": null,
+        "ObligationType": "W",
+        "SourceObligationID": null,
+        "GSDOfferSource": "Standard",
+        "GSDEntitlementSummary": "Standard Warranty - Wty: HP HW Maintenance Onsite Support  NBD Response / 9X5; Global Coverage ;  EXPIRED: 2014-03-20",
+        "GSDServicePortfolio": "Standard Warranty",
+        "GSDSARIdentifier": null,
+        "GSDCDIDIdentifier": null,
+        "GSDCoverage": "9X5",
+        "GSDResponse": "NBD",
+        "GSDModifier": "RESPONSE_TIME",
+        "IsGSDLSDT": true,
+        "IsGSDRestore": false,
+        "IsGSDRepair": false,
+        "IsGSDResponse": true,
+        "IsGSDMissionCritical": false,
+        "GSDUIOTC": "02N-Warranty Normal",
+        "GSDIsPartispatedInMergeOffer": false,
+        "GSDSupportProductLine": "",
+        "ResellerCustomerID": "",
+        "ResellerBRID": "",
+        "SoldToBRID": "",
+        "SoldToBRRelationship": ""
+      }
+    ],
+    "MyOoss": [
+      {
+        "ID": "ID_619504_2",
+        "SalesOrderNumber": null,
+        "ShipToCountry": null,
+        "OOSType": "HW",
+        "ProductNumber": "470065-506",
+        "ProductLineCode": "SY",
+        "ProductDescription": "HP DL360G7 E5649 SP8204TV Svr EURO",
+        "SerialNumber": "USE10771L4",
+        "OOSGroupID": "",
+        "CustomerDefinedID": "",
+        "ManufacturerProductNumber": "",
+        "ManufacturerName": "",
+        "ManufacturerID": "",
+        "OosPartList": null
+      }
+    ],
+    "SearchType": "getEntitlementBySn",
+    "SerialNumber": "USE10771L4",
+    "ISOCountryCode": "",
+    "MyLocations": [],
+    "AllLocations": [],
+    "MyContacts": [],
+    "isPSP": false,
+    "PSPID": "",
+    "MyEntitlementErrors": [
+      {
+        "ErrorID": "402",
+        "ErrorLevel": "WARNING",
+        "ErrorText": "Warranty calculated based on product number.",
+        "ErrorClass": "UnitNotFound",
+        "DataPayLoad": "Source WARRANTY SWOP 1009: Record not found; Warranty calculated based on product number."
+      },
+      {
+        "ErrorID": "200",
+        "ErrorLevel": "WARNING",
+        "ErrorText": "ES Solid Call: Code :404,Message :The Environment/serial number etc. was not found",
+        "ErrorClass": null,
+        "DataPayLoad": null
+      }
+    ],
+    "FromEntitlementSARId": "",
+    "FromEntitlementCDID": "",
+    "FraudMessageID": "",
+    "FraudMessage": "",
+    "BODWarrantyStartDate": null,
+    "myUnitEventHistory": [],
+    "PartWarrantyStartDate": null,
+    "PartWarrantyEndDate": null,
+    "SelectedOOS": null,
+    "GSDCoverage": null,
+    "GSDResponse": null,
+    "GSDModifier": null,
+    "IsGSDRestore": false,
+    "IsGSDRepair": false,
+    "IsGSDResponse": false
+  },
+  "ProductsForContract": null,
+  "SolidDetails": {
+    "ServiceEnvId": "",
+    "ServiceEnvName": "",
+    "ServiceEnvDesc": "",
+    "SolutionEnvId": "",
+    "SolutionEnvName": "",
+    "SolutionEnvDesc": "",
+    "status": "Passed",
+    "Message": "ES Solid Call: Code :404,Message :The Environment/serial number etc. was not found"
+  }
+}
   ],
   "profile": {
     "name": "typicode"
