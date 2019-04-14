@@ -2,17 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "GSDEntitlementResult": {
-    "CurrentEntitlementID": 0,
-    "sOOSType": "HW",
-    "GSDProductListBySerialNumber": [],
-    "MergedList": null,
-    "AutoSelectedOfferID": "",
-    "GSDCreateAssetBySN": true,
-    "ProductDescription": "HP DL360G7 E5649 SP8204TV Svr EURO",
-    "ProductName": "HP DL360G7 E5649 SP8204TV Svr EURO",
-    "ProductNumber": "470065-506"
-      }
+      "title": "hello"
     }
   ],
   "profile": {
