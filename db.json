@@ -1,20 +1,18 @@
 {
-	"fakeapi":
-	{
-		id:1,
-		buttons:[{
-			"id": 1,
-			"btn": "Button 1"
-		},
-		{
-			"id": 2,
-			"btn": "Button 2"
-		},
-		{
-			"id": 3,
-			"btn": "Button 3"
-		}
+	"fakeapi": {
+		"api": 1,
+		"buttons": [{
+				"id": 1,
+				"btn": "Button 1"
+			},
+			{
+				"id": 2,
+				"btn": "Button 2"
+			},
+			{
+				"id": 3,
+				"btn": "Button 3"
+			}
 		]
 	}
-
 }
