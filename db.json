@@ -1,6 +1,6 @@
 {
 	"fakeapi": {
-		"api": 1,
+		"api": "1",
 		"buttons": [{
 				"id": 1,
 				"btn": "Button 1"
