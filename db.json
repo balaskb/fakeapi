@@ -1,11 +1,6 @@
 {
-	"fakeapi":[ {
+	"fakeapi":{
 		"api": 1,
-		"btn":"test1"
-	},
-	{
-		"api": 2,
-		"btn":"test2"
+		"btn":["test1","test2"]
 	}
-	]
 }
