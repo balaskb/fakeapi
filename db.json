@@ -1,6 +1,6 @@
 {
 	"fakeapi":{
 		"api": 1,
-		"buttons":[{"btn":"test1"},{"btn":"test2"}]
+		"buttons":[{"btn":"test1"}]
 	}
 }
