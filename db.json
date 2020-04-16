@@ -1,14 +1,14 @@
 {
 	"fakeapi":{
-		"api": 91875,
+		"api": 1,
 		 "response":"Your application is processed."
 	},
 	{
-		"api": 97345,
+		"api": 2,
 		 "response":"Your application is in-process."
 	},
 	{
-		"api": 89184,
+		"api": 3,
 		 "response":"Your application is rejected due to wrong information."
 	}
 }
