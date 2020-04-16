@@ -1,14 +1,6 @@
 {
-	"fakeapi":{
-		"api": 1,
-		 "response":"Your application is processed."
-	},
-	{
-		"api": 2,
-		 "response":"Your application is in-process."
-	},
-	{
-		"api": 3,
-		 "response":"Your application is rejected due to wrong information."
-	}
+	"fakeapi": [{
+		"id": 1,
+		"title": "Your application is processed."
+	}]
 }
