@@ -1,6 +1,14 @@
 {
 	"fakeapi":{
-		"api": 1,
-		"buttons":[{"btn":"test1 HDD"}]
+		"api": 91875,
+		 "response":"Your application is processed."
+	},
+	{
+		"api": 97345,
+		 "response":"Your application is in-process."
+	},
+	{
+		"api": 89184,
+		 "response":"Your application is rejected due to wrong information."
 	}
 }
